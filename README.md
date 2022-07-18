@@ -1,5 +1,5 @@
 Alot of Operating System ISO Files, even modded versions. Includes Many Windows Operating Systems and Ubuntu.
-The pre-setup versions require vmware, you can either install vmware and use the free vmware player or go to the [product keys file](https://github.com/kiggy13/iso-database/files/9131619/product.keys.txt) and enter the free vmware workstation 16 key.
+The pre-installed versions require vmware, you can either install vmware and use the free vmware player or go to the [product keys file](https://github.com/kiggy13/iso-database/files/9131619/product.keys.txt) and enter the free vmware workstation 16 key.
 
 Some of the different Windows Versions require product keys. You can get the Windows XP Professional, Windows ME, Windows 95 and Windows 7 product keys from the [product keys file](https://github.com/kiggy13/iso-database/files/9131619/product.keys.txt). There are some versions like Windows 2000 Advanced Server and Windows 2000 Professional that I do not have a product key for. The Windows 10 free activation method is also in the [product keys file](https://github.com/kiggy13/iso-database/files/9131619/product.keys.txt).
 
