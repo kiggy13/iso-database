@@ -1,0 +1,17 @@
+windows me license key: B88DH-VQ89B-G4WWK-DCBP2-7B7PW
+windows xp license key: M6TF9-8XQ2M-YQK9F-7TBB2-XGG88
+windows 95 license key: 34698-OEM-0039682-72135
+windows 7 license key: 6RBBT-F8VPQ-QCPVQ-KHRB8-RMV82
+
+--- Windows 10 ---
+windows 10 home license key: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+windows 10 pro license key: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Run CMD as Administrator and enter the following commands
+slmgr /ipk [product key]
+slmgr /skms kms8.msguides.com
+slmgr /ato
+--- Windows 10 ---
+
+vmware workstation 16 key: ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+vmware workstation 15 key: FU512-2DG1H-M85QZ-U7Z5T-PY8ZD
+
