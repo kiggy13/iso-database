@@ -11,7 +11,7 @@ ISO Files in this collection: MS-DOS 6.22, ReactOS, Windows 10, Windows 10 2015,
 
 Pre-Installed: Windows 98, Windows 1.0.1 (Coming Soon), Windows 3.1.
 
-**Product keys - More product keys in the [product keys files](https://raw.githubusercontent.com/kiggy13/iso-database/main/product%20keys.txt).**
+**Product keys - More product keys in the [product keys file](https://raw.githubusercontent.com/kiggy13/iso-database/main/product%20keys.txt).**
 
 **Windows ME product key: B88DH-VQ89B-G4WWK-DCBP2-7B7PW**
 
